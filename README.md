@@ -9,7 +9,7 @@ Federated learning is a machine learning paradigm that solves distributed optimi
 This paper is a student work and has not been published in any journal or conference.
 
 ## Purpose
-The purpose of this repository is to share our student research paper and provide access to supplementary materials, including datasets and analysis scripts.
+The purpose of this repository is to share our student research paper.
 
 ## Citation
 If you refer to this work, please acknowledge it as follows:
